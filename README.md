@@ -55,6 +55,40 @@ I enjoy building backend systems, APIs, developer tools, networking projects, an
 
 ---
 
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharon504&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharon504&theme=transparent&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharon504&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="170" />
+</p>
+
+---
+
+## Contribution Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharon504&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharon504&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharon504&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharon504&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharon504&theme=transparent&utcOffset=5.5" />
+</p>
+
+---
+
 ## Featured Projects
 
 ### Space Mesh DTN
@@ -100,40 +134,6 @@ My personal developer portfolio showcasing my work, projects, and technical inte
 - Rust and Go systems programming
 - Distributed systems and networking
 - AI-assisted developer tooling
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharon504&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharon504&theme=transparent&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharon504&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="170" />
-</p>
-
----
-
-## Contribution Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharon504&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharon504&theme=transparent" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharon504&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharon504&theme=transparent" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharon504&theme=transparent&utcOffset=5.5" />
-</p>
 
 ---
 
